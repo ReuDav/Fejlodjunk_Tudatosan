@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px" viewBox="0 0 48 48" version="1.1">
+<defs>
+<linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="67.2972" y1="28" x2="67.2972" y2="227.958" gradientTransform="matrix(0.1875,0,0,0.1875,0,0)">
+<stop offset="0" style="stop-color:rgb(8.627451%,69.019608%,92.941176%);stop-opacity:0.8;"/>
+<stop offset="1" style="stop-color:rgb(5.882353%,34.901961%,69.803922%);stop-opacity:0.835294;"/>
+</linearGradient>
+<linearGradient id="linear1" gradientUnits="userSpaceOnUse" x1="189.14" y1="28.0225" x2="189.14" y2="227.957" gradientTransform="matrix(0.1875,0,0,0.1875,0,0)">
+<stop offset="0" style="stop-color:rgb(49.019608%,71.372549%,26.27451%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(21.176471%,45.882353%,20%);stop-opacity:1;"/>
+</linearGradient>
+<linearGradient id="linear2" gradientUnits="userSpaceOnUse" x1="128.414" y1="28.0332" x2="128.414" y2="228.01" gradientTransform="matrix(0.1875,0,0,0.1875,0,0)">
+<stop offset="0" style="stop-color:rgb(53.333333%,77.647059%,28.627451%);stop-opacity:0.8;"/>
+<stop offset="1" style="stop-color:rgb(26.27451%,57.254902%,25.098039%);stop-opacity:0.839216;"/>
+</linearGradient>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(14.117647%,16.078431%,21.960784%);fill-opacity:1;" d="M 11.25 0 L 36.75 0 C 42.964844 0 48 5.035156 48 11.25 L 48 36.75 C 48 42.964844 42.964844 48 36.75 48 L 11.25 48 C 5.035156 48 0 42.964844 0 36.75 L 0 11.25 C 0 5.035156 5.035156 0 11.25 0 Z M 11.25 0 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:url(#linear0);" d="M 8.625 13.3125 L 16.613281 5.25 L 16.613281 42.742188 L 8.625 34.773438 Z M 8.625 13.3125 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:url(#linear1);" d="M 39.484375 13.390625 L 31.386719 5.253906 L 31.554688 42.742188 L 39.539062 34.773438 Z M 39.484375 13.390625 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:url(#linear2);" d="M 16.605469 5.257812 L 37.371094 36.941406 L 31.558594 42.75 L 10.785156 11.136719 Z M 16.605469 5.257812 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(0%,0%,0%);fill-opacity:0.129412;" d="M 16.613281 19.953125 L 16.601562 21.199219 L 10.191406 11.734375 L 10.785156 11.132812 Z M 16.613281 19.953125 "/>
+</g>
+</svg>

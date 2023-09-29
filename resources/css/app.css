@@ -1,0 +1,67 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.animate-custom-theme{
+    animation: Appearing 2.5s;
+}
+@keyframes Appearing {
+    0% { opacity: 0;}
+    100% { opacity: 1;}
+}
+
+#menu{
+    height: 0;
+    transition: all .75s ease;
+}
+#menu.open {
+    height: 550px !important;
+
+}
+/* .hide{
+    opacity: 0;
+    transition: opacity 1s ease;
+}
+.show{
+    transition: opacity 1s ease ;
+    opacity: 1;
+} */
+#line-t,
+#line-m,
+#line-b{
+    display: block;
+    width: 30px;
+    height: 3px;
+    position: relative;
+    border-radius: 10px;
+    transition: all .75s ease;
+}
+
+#line-t{ top: 12px;}
+
+#line-b{ top: -12px;}
+
+
+#line-t.anim{
+    transform: translateY(-10px) rotate(45deg);
+}
+#line-m.anim{
+    background: transparent;
+}
+#line-b.anim{
+    transform: translateY(8px) rotate(135deg);
+}
+@media only screen and (min-width: 1280px) {
+    #menu.open {
+        height: auto !important;
+    }
+    #menu{
+        height: auto;
+    }
+}
+
+@media(prefers-reduces-motion){
+    .hide{
+        transition: none;
+    }
+}

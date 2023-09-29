@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px" viewBox="0 0 48 48" version="1.1">
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(14.117647%,16.078431%,21.960784%);fill-opacity:1;" d="M 11.25 0 L 36.75 0 C 42.964844 0 48 5.035156 48 11.25 L 48 36.75 C 48 42.964844 42.964844 48 36.75 48 L 11.25 48 C 5.035156 48 0 42.964844 0 36.75 L 0 11.25 C 0 5.035156 5.035156 0 11.25 0 Z M 11.25 0 "/>
+<path style="fill:none;stroke-width:4;stroke-linecap:butt;stroke-linejoin:round;stroke:rgb(100%,100%,100%);stroke-opacity:1;stroke-miterlimit:10;" d="M 93.208333 222.9375 L 50 48 L 223.229167 97.875 Z M 93.208333 222.9375 " transform="matrix(0.1875,0,0,0.1875,0,0)"/>
+<path style="fill:none;stroke-width:4;stroke-linecap:butt;stroke-linejoin:round;stroke:rgb(100%,100%,100%);stroke-opacity:1;stroke-miterlimit:10;" d="M 136.583333 72.9375 L 158.166667 160.4375 L 71.604167 135.5 Z M 136.583333 72.9375 " transform="matrix(0.1875,0,0,0.1875,0,0)"/>
+<path style="fill:none;stroke-width:4;stroke-linecap:butt;stroke-linejoin:round;stroke:rgb(100%,100%,100%);stroke-opacity:1;stroke-miterlimit:10;" d="M 115.104167 147.354167 L 104.375 103.895833 L 147.395833 116.25 Z M 115.104167 147.354167 " transform="matrix(0.1875,0,0,0.1875,0,0)"/>
+<path style="fill:none;stroke-width:4;stroke-linecap:butt;stroke-linejoin:round;stroke:rgb(100%,100%,100%);stroke-opacity:1;stroke-miterlimit:10;" d="M 93.645833 60.479167 L 104.375 103.958333 L 61.375 91.604167 Z M 93.645833 60.479167 " transform="matrix(0.1875,0,0,0.1875,0,0)"/>
+<path style="fill:none;stroke-width:4;stroke-linecap:butt;stroke-linejoin:round;stroke:rgb(100%,100%,100%);stroke-opacity:1;stroke-miterlimit:10;" d="M 179.666667 85.25 L 190.395833 128.729167 L 147.375 116.375 Z M 179.666667 85.25 " transform="matrix(0.1875,0,0,0.1875,0,0)"/>
+<path style="fill:none;stroke-width:4;stroke-linecap:butt;stroke-linejoin:round;stroke:rgb(100%,100%,100%);stroke-opacity:1;stroke-miterlimit:10;" d="M 115.104167 147.395833 L 125.833333 190.854167 L 82.833333 178.5 Z M 115.104167 147.395833 " transform="matrix(0.1875,0,0,0.1875,0,0)"/>
+</g>
+</svg>
